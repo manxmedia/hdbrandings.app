@@ -565,7 +565,7 @@ h1, h2, h3, h4 {
     left: 50%;
     -webkit-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%); }
+    transform: translate(-50%, -50%);}
 
 .btn:after, .btn:before {
   display: none; }
@@ -1233,6 +1233,7 @@ h1, h2, h3, h4 {
   .post-meta a {
     color: #fff;
     border-bottom: 1px solid rgba(255, 255, 255, 0.5); }
+
 
 /*PRELOADING------------ */
 #overlayer {
