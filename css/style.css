@@ -445,7 +445,7 @@ input[type=checkbox] {
         position: relative; }
         .sticky-wrapper .site-navbar .site-menu > li > a:after {
           height: 2px;
-          background: #fff;
+          background:#000;
           content: "";
           position: absolute;
           bottom: 0;
@@ -458,7 +458,7 @@ input[type=checkbox] {
           -o-transition: .3s all ease;
           transition: .3s all ease; }
         .sticky-wrapper .site-navbar .site-menu > li > a:hover, .sticky-wrapper .site-navbar .site-menu > li > a.active {
-          color: #fff;
+          color: #000;
           position: relative; }
           .sticky-wrapper .site-navbar .site-menu > li > a:hover:after, .sticky-wrapper .site-navbar .site-menu > li > a.active:after {
             -webkit-transform: scale(1);
